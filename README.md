@@ -1,6 +1,5 @@
 # Hi, I'm Vidhya E S! 👋
 
-![Profile Banner](https://via.placeholder.com/1200x300?text=AI+Engineer+in+Progress) <!-- Replace with a custom banner image, e.g., from Canva -->
 
 Aspiring AI Engineer with hands-on experience in computer vision, natural language processing, machine learning, and full-stack development. Proficient in Python, TensorFlow, PyTorch, YOLOv8, and Hugging Face transformers, with proven ability to build end-to-end AI applications. Developed computer vision datasets for humanoid robotics, deployed ML models achieving 89% accuracy, and created NLP-based systems for healthcare applications. Currently pursuing a PG Diploma in AI/ML while completing an ongoing internship in robotics and AI.
 
