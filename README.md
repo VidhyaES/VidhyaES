@@ -21,7 +21,7 @@ Aspiring AI Engineer with hands-on experience in computer vision, natural langua
 ## 🚀 Featured Projects
 
 - **[Medical Prescription Digitization System](https://github.com/VidhyaES/Medical-Prescription-Digitization)** (Ongoing): End-to-end system using OCR (TrOCR) and NLP (BioClinicalBERT) to digitize prescriptions, achieving 90% accuracy on printed text. Tech: Python, OpenCV, PyTorch, Hugging Face, Streamlit, spaCy.  
-- **[Drug Interaction Detector](https://github.com/VidhyaES/Drug-Interaction-Detector)** (Ongoing): NLP-based risk checker for drug interactions with real-time warnings. Tech: Python, spaCy, Hugging Face, Streamlit.  
+- **[Drug Interaction Detector](https://github.com/VidhyaES/drug-interaction-detector-nlp)** (Ongoing): NLP-based risk checker for drug interactions with real-time warnings. Tech: Python, spaCy, Hugging Face, Streamlit.  
 - **[Study Buddy: AI-Powered Learning Assistant](https://github.com/VidhyaES/Study-Buddy-AI-Learning-Assistant)**: Full-stack app generating questions and flashcards using Google Gemini API. Tech: Streamlit, Python, JSON.  
 - **[Object Segmentation for Semi-Humanoid Robots](https://github.com/VidhyaES/Object-Segmentation-Robotics)**: Instance segmentation pipeline for robotics using SAM and YOLOv8. Tech: Roboflow, PyTorch.  
 - **[SCANOVA: Smart Supermarket Self-Checkout](https://github.com/VidhyaES/SCANOVA-Self-Checkout)**: CV-based app for fruit/vegetable recognition (36+ classes). Tech: React, Python Flask, TensorFlow.  
