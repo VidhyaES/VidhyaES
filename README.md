@@ -26,7 +26,7 @@ Aspiring AI Engineer with hands-on experience in computer vision, natural langua
 - **[Object Segmentation for Semi-Humanoid Robots](https://github.com/VidhyaES/Object-Segmentation-Robotics)**: Instance segmentation pipeline for robotics using SAM and YOLOv8. Tech: Roboflow, PyTorch.  
 - **[SCANOVA: Smart Supermarket Self-Checkout](https://github.com/VidhyaES/SCANOVA-Self-Checkout)**: CV-based app for fruit/vegetable recognition (36+ classes). Tech: React, Python Flask, TensorFlow.  
 - **[NAPALYZE: Sleep Quality Prediction](https://github.com/VidhyaES/NAPALYZE-Sleep-Quality-Predictor)**: ML web app using Random Forest. Tech: Python, scikit-learn, Streamlit.  
-- **[PLACIFY: AI-Driven Campus Recruitment](https://github.com/VidhyaES/PLACIFY-Campus-Recruitment)**: Job matching with SVM (89% accuracy). Tech: Python, SQL.  
+- **[PLACIFY: AI-Driven Campus Recruitment](https://github.com/VidhyaES/PLACIFY-Campus-Recruitment-Application)**: Job matching with SVM (89% accuracy). Tech: Python, SQL.  
 - **[TREKTALE: AI-Powered Travel Companion](https://github.com/VidhyaES/TREKTALE-Travel-Companion)**: Trip planning app with GPS navigation (95% accuracy). Tech: Flutter, Firebase, Java.
 
 ## 🎓 Education
