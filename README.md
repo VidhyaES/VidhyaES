@@ -24,10 +24,10 @@ Aspiring AI Engineer with hands-on experience in computer vision, natural langua
 - **[Drug Interaction Detector](https://github.com/VidhyaES/drug-interaction-detector-nlp)** (Ongoing): NLP-based risk checker for drug interactions with real-time warnings. Tech: Python, spaCy, Hugging Face, Streamlit.  
 - **[Study Buddy: AI-Powered Learning Assistant](https://github.com/VidhyaES/Study-Buddy-AI-Learning-Assistant)**: Full-stack app generating questions and flashcards using Google Gemini API. Tech: Streamlit, Python, JSON.  
 - **[Object Segmentation for Semi-Humanoid Robots](https://github.com/VidhyaES/Object-Segmentation-Robotics)**: Instance segmentation pipeline for robotics using SAM and YOLOv8. Tech: Roboflow, PyTorch.  
-- **[SCANOVA: Smart Supermarket Self-Checkout](https://github.com/VidhyaES/SCANOVA-Self-Checkout)**: CV-based app for fruit/vegetable recognition (36+ classes). Tech: React, Python Flask, TensorFlow.  
-- **[NAPALYZE: Sleep Quality Prediction](https://github.com/VidhyaES/NAPALYZE-Sleep-Quality-Predictor)**: ML web app using Random Forest. Tech: Python, scikit-learn, Streamlit.  
+- **[SCANOVA: Smart Supermarket Self-Checkout](https://github.com/VidhyaES/SCANOVA-ai-self-checkout)**: CV-based app for fruit/vegetable recognition (36+ classes). Tech: React, Python Flask, TensorFlow.  
+- **[NAPALYZE: Sleep Quality Prediction](https://github.com/VidhyaES/NapAlyze-ML-Project-for-testing-sleep-quality)**: ML web app using Random Forest. Tech: Python, scikit-learn, Streamlit.  
 - **[PLACIFY: AI-Driven Campus Recruitment](https://github.com/VidhyaES/PLACIFY-Campus-Recruitment-Application)**: Job matching with SVM (89% accuracy). Tech: Python, SQL.  
-- **[TREKTALE: AI-Powered Travel Companion](https://github.com/VidhyaES/TREKTALE-Travel-Companion)**: Trip planning app with GPS navigation (95% accuracy). Tech: Flutter, Firebase, Java.
+- **[TREKTALE: AI-Powered Travel Companion](https://github.com/VidhyaES/trektale-travel-companion-flutter)**: Trip planning app with GPS navigation (95% accuracy). Tech: Flutter, Firebase, Java.
 
 ## 🎓 Education
 
